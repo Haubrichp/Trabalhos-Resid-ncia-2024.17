@@ -3,7 +3,8 @@ programa
 	
 	funcao inicio()
 	
-	{ cadeia nome  , sobrenome
+	{
+ cadeia nome  , sobrenome
 		inteiro idade
 			escreva("Olá, seja bem vindo! ")
 			escreva("Digite seu primeiro nome: ")
